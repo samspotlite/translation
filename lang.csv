@@ -665,3 +665,7 @@ WithDraw,Records,Empty_Desc,You haven\'t made any withdrawal requests. Please wi
 Yes,Button,,Yes,是
 Cmp,Detail,Vote_btn,Vote,投票
 Cmp,Detail,Vote_num_android,%1$d votes,%1$d 票
+Cmp,Detail,Vote_Alert_Title_android,"Spend %1$d coins, Confirm it?","本次消费需要花费%1$d金币，确认支付吗？"
+Cmp,Detail,Vote_Alert_Line1,"Confirm, and never show this dialog again.","确认，以后不再提醒"
+Cmp,Detail,Vote_Alert_Line2,"Confirm, show this dialog each purchase.","确认，以后每次都提醒我"
+Cmp,Detail,Vote_Alert_Line3,"Cancel","取消"
