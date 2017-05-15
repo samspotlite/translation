@@ -663,3 +663,4 @@ Web,LoadFail,Label,"Loading failed, please try again",加载失败，请点击�
 Web,TopAlert,Label,"You are visiting unofficial pages,  pay attention to the security of your account",您正在访问非Spotlite网页，请注意账号和密码安全
 WithDraw,Records,Empty_Desc,You haven\'t made any withdrawal requests. Please win more diamonds,你还没有发起过提现，多多赢取钻石吧。
 Yes,Button,,Yes,是
+Cmp,Detail,Vote_btn,Vote,投票
