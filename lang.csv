@@ -436,7 +436,6 @@ Record,Complete,Upload_Button,Upload,上传
 Record,Complete,WorkLimit_Alert1,"To upload your work, it must be longer than 45 seconds.",录音长度大于45秒的作品才能上传
 Record,Complete,WorkLimit_Alert2,"To upload your work, please record longer",伴奏长度小于60秒的作品，录音长度大于30秒才能上传至个人主页
 Record,Convert,Error,File cannot be converted to PCM,文件无法转换为PCM
-Record,Headphone,Tip_Label,headphones\nrecommended,戴耳机录n效果更好
 Record,Prepare,Audio_Space_Tip,Keep a certain distance from microphone for good recording quality,和话筒保持适当的距离可以防止喷麦
 Record,Prepare,Audio_Tip,"Tap to pause, drag lyrics to rerecord",点击歌词暂停，拖动歌词可以重新录制
 Record,Prepare,Check_Loading,Checking data…,检查伴奏…
@@ -467,7 +466,7 @@ Record,Prepare,Start_Record_Fail,Start recording failed. Please try again,启动
 Record,Prepare,Video_MVFilter_Toast,Video filter is disabled due to the performance of your device,由于手机性能原因，暂时无法使用该滤镜
 Record,Prepare,Video_Save_Error_Content,Recording MV function is disabled due to the performance of your device,抱歉，系统判断你的手机性能较低，暂时无法录制MV
 Record,Prepare,Video_Save_Error_Title,Prompt,提示
-Record,Preview,HeadSetTips,headphones\nrecommended,戴耳机录歌\n效果更好
+Record,Preview,HeadSetTips,headphones\nrecommended,戴耳机录\n效果更好
 Record,Record,go_back_home,Back,返回
 Record,Record,reply_send_btn,Send,发送
 Record,Recording,choose_start_pos,Choose start position,选择录音开始位置
@@ -670,3 +669,4 @@ Cmp,Detail,Vote_Alert_Line1,"Confirm, and never show this dialog again.","确认
 Cmp,Detail,Vote_Alert_Line2,"Confirm, show this dialog each purchase.","确认，以后每次都提醒我"
 Cmp,Detail,Vote_Alert_Line3,"Cancel","取消"
 Cmp,Detail,Vote_num_ios,%d votes,%d 票
+Cmp,Detail,Vote_Alert_Title_ios,"Spend %d coins, Confirm it?","本次消费需要花费%d金币，确认支付吗？"
