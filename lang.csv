@@ -669,3 +669,4 @@ Cmp,Detail,Vote_Alert_Title_android,"Spend %1$d coins, Confirm it?","本次消�
 Cmp,Detail,Vote_Alert_Line1,"Confirm, and never show this dialog again.","确认，以后不再提醒"
 Cmp,Detail,Vote_Alert_Line2,"Confirm, show this dialog each purchase.","确认，以后每次都提醒我"
 Cmp,Detail,Vote_Alert_Line3,"Cancel","取消"
+Cmp,Detail,Vote_num_ios,%d votes,%d 票
