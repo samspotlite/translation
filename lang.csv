@@ -174,7 +174,7 @@ Home,UploadTip,Waiting,Waiting,等待上传
 Input,MaxLength,Msg,Too many characters,字数超过限制
 Input,Name,Msg,Please input your name,请输入姓名
 Input,Retry,Msg,Please re-enter,请重新输入
-Keyboard,Placeholder,Tip,Tell the story in a sentence …,说点什么 …
+Keyboard,Placeholder,Tip,Say something…,说点什么…
 Live,AnchorAlwaysSing,Label,Anchor\'s hot song,主播常唱
 Live,BackButton,Tip,BACK,返回
 Live,Button,Reconnect,Reconnect,重连
@@ -508,7 +508,7 @@ Record,Report,Text_8,Lyric and accompaniment dislocation,歌词与伴奏错位
 Record,Report,Text_9,Intonation Indicator not accurate,音准器节奏对不齐
 Record,Upload,Album_Chose_Tip,You can choose up to 15 pictures,最多可以选择15张图片
 Record,Upload,Album_Delete,Delete,删除
-Record,Upload,Album_Desc,Chose photo. When music playing,选取照片，当音乐播放的时候会轮播这些照片
+Record,Upload,Album_Desc,Add photos for music play,选取照片，当音乐播放的时候会轮播这些照片
 Record,Upload,Album_Max_Tip,Reach the maximum amount,您已经添加了15张图片，不能再继续添加
 Record,Upload,Album_Preview,Preview,预览
 Record,Upload,Album_Select_Max,Up to %ld photos,最多可选择%ld张照片
@@ -516,7 +516,7 @@ Record,Upload,Album_Title,Album,相册
 Record,Upload,Album_Unusable,Album is unusable,相册暂时不可用
 Record,Upload,Camera_Unusable,Camera is unusable,摄像头暂时不可用
 Record,Upload,Change_Cover,Change cover,更换封面
-Record,Upload,Competition_Desc,You\'ve joint this competition before,你已经参加过这个比赛了
+Record,Upload,Competition_Desc,You have already joined this contest,你已经参加过这个比赛了
 Record,Upload,ComposeFail_Tip,Compose failed,作品合成失败
 Record,Upload,Cover_Crop_Error,Image clipping error,图片裁减异常
 Record,Upload,Cover_Crop_No_Sdcard,No SD card,没有本地SD卡
@@ -524,7 +524,7 @@ Record,Upload,Features,Featured covers,推荐图库
 Record,Upload,NoNetwork_Tip,Please check network connection,请检查网络链接
 Record,Upload,Private_Desc,Only you can see,只有自己可以看到
 Record,Upload,Private_Title,Private,私密
-Record,Upload,Public_Desc,Anyone can see this,所有人都可以看到
+Record,Upload,Public_Desc,Public to all users,所有人都可以看到
 Record,Upload,Public_Title,Public,公开
 Record,Upload,SaveFail_Tip,"Save failed, please try again",保存失败，请重试
 Record,Upload,Send_Button,Upload,上传
