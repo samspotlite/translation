@@ -57,7 +57,7 @@ Camera,Filter,Yunying,Vignette,晕影
 Camera,Permission,Msg,Allow Spotlite to access Camera,Spotlite需要访问您的相机，请到设置中开启。
 Cancel,Button,,Cancel,取消
 Cash,Record,Fail,Fail.reason:,失败。原因：
-Cash,Record,Processing,In the processing,处理中
+Cash,Record,Processing,Work in progress,处理中
 Cash,Record,Success,Succeeded,成功
 Choose,Location,Title,Choose Location,选择地区
 Cmp,Detail,Join_Dialog_Btn,Pick a song,去选歌
@@ -89,21 +89,21 @@ Common,Time,Day,%dd,%d天前
 Common,Time,Hour,%dh,%d小时前
 Common,Time,Min,1min,1分钟内更新
 Common,Time,One_min,%dmin,%d分钟前
-Common,Tip,DataTypeWrong,Something happens…,数据类型出错
-Common,Tip,PoolNetwork,Please check network connection,请检查网络连接，稍后重试
+Common,Tip,DataTypeWrong,Something happened…,数据类型出错
+Common,Tip,PoolNetwork,Please check your network connection,请检查网络连接，稍后重试
 Common,Twitter,Service_Unavailable,Twitter service unavailable,Twitter服务不可用
 Common,Waring,confirm_msg,Confirm deletion,确认删除
 Comp,Label,History,History,历史比赛
-Competition,Detail,Empty_Desc,Be the first one to join this contest,抢占先机，做第一个参加比赛的人吧～
+Competition,Detail,Empty_Desc,Be the first one to join this contest!,抢占先机，做第一个参加比赛的人吧～
 Competition,Detail,Finished_Label,Finished,已结束
 Competition,Finish,Label,Finished,已结束
-Competition,History,Entrance,Finished Contests,历史比赛
-Competition,History,Title,Finished Contests,历史比赛
+Competition,History,Entrance,past contests,历史比赛
+Competition,History,Title,Past contests,历史比赛
 Competition,Join,Alert_Content,Start to make your masterpiece,演唱歌曲即可参加比赛
-Competition,Join,Alert_Tip,Tip,提示
+Competition,Join,Alert_Tip,Tips,提示
 Competition,JoinButton,Label,Join,参加
 Competition,JoinedButton,Label,Joined,已参加
-Competition,List,Finished_Label,Finished Contests,历史比赛
+Competition,List,Finished_Label,Past contests,历史比赛
 Competition,PickSong,Button,Pick a song,选择歌曲
 Competition,RankType,FastestRising,Fastest Rising,上升最快
 Competition,RankType,Top100,Top 100,前100名
@@ -123,13 +123,13 @@ Empty,Block_Users,Label,No one is blocked.,黑名单为空
 Empty,Cash_History,Label,You haven\'t made any withdrawal requests. Please win more diamonds.,你还没有发起过提现，多多赢取钻石吧。
 Empty,Coming_Soon,Label,Coming soon,即将到来
 Empty,Comment_Notice,Label,"You haven\'t got any comments, make some new friends here.",你还没有收到评论，多跟大家互动吧
-Empty,Competition,Label,Be the first one to join this contest.,抢占先机，做第一个参加比赛的人吧～
+Empty,Competition,Label,Be the first one to join this contest!,抢占先机，做第一个参加比赛的人吧～
 Empty,Description,,"Hi explorer, there\'s nothing here for now.",这里暂时没有内容，去看看别的吧
 Empty,Gift_Notice,Label,You haven\'t received any gifts yet.,你还没有收到礼物，多发一些作品吧
 Empty,Gift_Rank,Label,The work hasn\'t received any gifts.,该作品还未收到礼物。
-Empty,My_Contest,Label,Go to HOME and choose the contest you would like to be in. Sing your song and upload to Spotlite. Good luck!,去首页  > Spotlite 里选择你心动的比赛参加吧，祝你夺得头筹！
-Empty,My_Fans,Label,"You haven\'t got any fans, make some new friends here.",你还没有粉丝，去认识些新朋友吧
-Empty,My_Follows,Label,"You haven\'t follow anyone, make some new friends here.",你还没有关注别人，去认识些新朋友吧
+Empty,My_Contest,Label,Go to HOME and choose the contest you would like to participate in. Sing your song and upload to Spotlite. Good luck!,去首页  > Spotlite 里选择你心动的比赛参加吧，祝你夺得头筹！
+Empty,My_Fans,Label,"You haven\'t gotten any fans yet, make some new friends here.",你还没有粉丝，去认识些新朋友吧
+Empty,My_Follows,Label,"You haven\'t followed anyone yet, make some new friends here.",你还没有关注别人，去认识些新朋友吧
 Empty,My_Songs,Label,Sing a song to celebrate the bright day!,唱一首歌来庆祝这美好的一天吧～
 Empty,My_Visitor,Label,You can start by visiting other users:),还没有人访问过你，先去访问别人吧～
 Empty,Normal_Notice,Label,You don\'t have any messages.,你还没有收到通知，去看看别的吧
@@ -198,17 +198,17 @@ Live,Error,Init,"Failed to go live _%s, try opening this page again",推流初�
 Live,Error,Init_player,Player initialization failed,播放器初始化失败
 Live,Error,Load_Song,Song files loading failed,歌曲文件加载失败
 Live,Error,Net_Weak,Network connection is poor and audiences cannot see your show. Please restart your livestream,亲，您的网络太差，观众看不到您的直播了，请重新开播
-Live,Error,OS,System version is too low to open Livesteam,系统版本过低，无法开启直播
+Live,Error,OS,System version is too old to open Livesteam.,系统版本过低，无法开启直播
 Live,Error,RTMP_Connect,"Connection failed, reconnecting…",连接失败，正在重试
-Live,Error,Viewer_Retry,Failed to connect to the livestream service,重试播放失败
-Live,Error,Viewer_URL,"Something wrong with your livestream source, reconnecting…",链接出问题了，正在尝试重新链接
-Live,Error,Viewer_Video,"Some trouble with the service, go back and re-enter this room",主播可能遇到了小麻烦，尝试重新进入房间
-Live,Error,WB_Retry,Some trouble with the service. No chatting right now. Video playing is not affected,重试失败，无法聊天和看观众，但不影响观看视频
+Live,Error,Viewer_Retry,Failed to connect to the livestream.,重试播放失败
+Live,Error,Viewer_URL,"Something wrong with your livestream, reconnecting… ",链接出问题了，正在尝试重新链接
+Live,Error,Viewer_Video,There's been troubles with the service,主播可能遇到了小麻烦，尝试重新进入房间
+Live,Error,WB_Retry,There's been troubles with the service. Chatting is unavailable at the moment. Video playing is not affected. ,重试失败，无法聊天和看观众，但不影响观看视频
 Live,Exit,Tip,Are you sure you want to exit?,确定要退出直播吗？
 Live,HeartIsNotReady,Tip,Wait a few seconds to send free gift again,耐心等待几秒，免费礼物就会生成~
 Live,Message,Block_Success_Tip,Blocked successfully,拉黑成功
 Live,Message,Block_User_Label,Block,加入黑名单
-Live,Message,Block_User_Tip,Are you sure you want to block this person? You will no longer be able to follow him once blocked.,加入黑名单后你们将解除关注关系，并且不能再互相关注
+Live,Message,Block_User_Tip,Are you sure you want to block this person? You will no longer be able to follow this person once blocked.,加入黑名单后你们将解除关注关系，并且不能再互相关注
 Live,Message,Confirm,Confirm,确定
 Live,Message,Empty,Type,不能输入空内容
 Live,Message,Exceeds_Limit,Message too long,字数超过限制啦
@@ -229,7 +229,7 @@ Live,Message,share_the_live_stream,Shared this Livestream,分享了本次直播
 Live,Message,Thx_For_Report_Tip,Thanks for your report. We will address your issue ASAP.,感谢您的举报，我们会及时处理
 Live,Message,UnBlock_Label,Unblock,解除黑名单
 Live,Message,UnBlock_Success_Tip,Unblocked successfully,移除黑名单成功
-Live,Message,UnBlock_User_Tip,Do you want to unblock user?,解除该用户的黑名单
+Live,Message,UnBlock_User_Tip,Do you want to unblock this user?,解除该用户的黑名单
 Live,Message,unit_of_measurement,,个
 Live,Message,zh_le,,了
 Live,MiniPlayerClose,Tip,Are you sure you want to stop playing?,确定要结束音乐吗？
@@ -285,7 +285,7 @@ Live,Tip,Audio,"Please check \""No Reminder\"" and agree to avoid vocal/accompan
 Live,Tip,GetBannedByBroadcast,You have been blocked for %ld min,您已被主播禁言%ld分钟
 Live,Tip,GetBannedByBroadcast4Android,You have been blocked for %d min,您已被主播禁言%d分钟
 Live,Tip,Invalid,Current network connection Is poor. Please switch network and restart app!,由于当前网络环境过差，无法支持视频直播。请切换至其他网络或改善所处网络环境后重新开播！
-Live,Tip,LiveWrong,"Something happens, please try again later…",直播出现问题，建议稍后重试
+Live,Tip,LiveWrong,"Something happened, please try again later…",直播出现问题，建议稍后重试
 Live,Tip,Low,"Current network connection Is poor. Spotlite has switched to smooth mode. To use HD mode, connect to another network and restart app!",由于当前网络环境较差，已切换至流畅模式。如需使用高清模式，请改善所处网络环境后重新开播！
 Live,Tip,PullToBlackList,You have been blocked,您已被主播拉黑
 Live,TotalDuring,Tip,Lasts,直播时长
@@ -310,20 +310,20 @@ Login,Twitter,Label,Continue with Twitter,Twitter登录
 Me,BlackList,Empty_Desc,No one is blocked.,黑名单为空
 Me,Cash,BindPaypal_Tip,Connect to your Paypal account …,绑定你的Paypal账号……
 Me,Cash,ExchangeMoney_Tip,Convert diamonds to money …,正在把钻石兑现成现金……
-Me,Cash,Success_Label,Your payout request will be handled within 5 business days,你的提现申请将于5个工作日内完成
+Me,Cash,Success_Label,Your payout request will be done within 5 business days,你的提现申请将于5个工作日内完成
 Me,Charge,Bonus_Label,Bonus,奖励
 Me,Charge,Diamond2Cash_Tip,Are you sure to cash %1$@ diamonds out into $%2$@?,请确定要将%1$@钻石提现成$%2$@？
 Me,Charge,Diamond2Coin_Tip,Are you sure to convert %1$@ diamonds to %2$@ coins?,请确定要将%1$@钻石兑换成%2$@金币？
 Me,Charge,IAP_IsRequesting,Connecting…,正在请求…
 Me,Charge,Label,Convert to Coins,兑换金币
-Me,Charge,LessDiamond_Tip,Your diamonds are not enough,你的钻石不足
+Me,Charge,LessDiamond_Tip,You don't have enough diamonds,你的钻石不足
 Me,Charge,Success_Tip,Converted,兑换成功
 Me,Charge,Tip_BuyFail,Purchase failed,充值失败
 Me,Charge,Tip_BuySuccess,Purchase successful!,充值成功！
 Me,Charge,Tip_CheckYourOrder,Checking your order…,正在验证…
-Me,Charge,Tip_ItunesStoreConnectFail,"Cannot connect to iTunes Store, please retry again",无法连接到iTunes Store
+Me,Charge,Tip_ItunesStoreConnectFail,"Cannot connect to iTunes Store, please try again",无法连接到iTunes Store
 Me,Charge,Tip_ItunesStoreRequestingPay,Requesting for purchase…,正在请求支付…
-Me,Charge,Tip_ItunesStoreRequestTimeOut,"Cannot connect to iTunes Store, please retry again",iTunes Store请求超时，请稍后重试
+Me,Charge,Tip_ItunesStoreRequestTimeOut,"Cannot connect to iTunes Store, please try again",iTunes Store请求超时，请稍后重试
 Me,Charge,Tip_PurchaseSuccess,Purchased,金币购买成功，请查看你的金币数
 Me,Charge,Tip_RequestingProductInfo,Requesting for purchase information,正在请求产品信息…
 Me,Charge,Tip_UserCancelPay,Purchase cancelled,用户取消支付
@@ -333,11 +333,11 @@ Me,Coins,Avaliable_Label,Availiable Coins,可用金币
 Me,Coins,Label,Coins,金币
 Me,Comment,Empty_Desc,"You haven\'t got any comments, make some new friends here.",你还没有收到评论，多跟大家互动吧
 Me,Competition,Label,Contests,比赛
-Me,Contest,Empty_Desc,Go to HOME and choose the contest you would like to be in. Sing your song and upload to Spotlite. Good luck!,去首页  > Spotlite 里选择你心动的比赛参加吧，祝你夺得头筹！
+Me,Contest,Empty_Desc,Go to HOME and choose the contest you would like to participate in. Sing your song and upload to Spotlite. Good luck!,去首页  > Spotlite 里选择你心动的比赛参加吧，祝你夺得头筹！
 Me,Fans_Other,Empty_Desc,"Hi explorer, there\'s nothing here for now.",这里暂时没有内容，去看看别的吧
-Me,Fans_Self,Empty_Desc,"You haven\'t got any fans, make some new friends here.",你还没有粉丝，去认识些新朋友吧
+Me,Fans_Self,Empty_Desc,"You haven\'t gotten any fans yet, make some new friends here.",你还没有粉丝，去认识些新朋友吧
 Me,Follow_Other,Empty_Desc,"Hi explorer, there\'s nothing here for now.",这里暂时没有内容，去看看别的吧
-Me,Follow_Self,Empty_Desc,"You haven\'t follow anyone, make some new friends here.",你还没有关注别人，去认识些新朋友吧
+Me,Follow_Self,Empty_Desc,"You haven\'t followed anyone yet, make some new friends here.",你还没有关注别人，去认识些新朋友吧
 Me,Gift,Empty_Desc,You haven\'t received any gifts yet.,你还没有收到礼物，多发一些作品吧
 Me,Income,Label,Earnings,收入
 Me,Level,Label,Upgrade,等级
@@ -391,7 +391,7 @@ Permission,Storage,Cancel_Btn,Exit,退出
 Permission,Storage,Desc,Spotlite needs access to your memory space to save your performances,为了能够保存你的作品，Spotlite 需要获取存储空间访问权限
 Permission,Storage,Label,Read local file permissions not open,读取本地文件权限未打开
 Permission,Storage,OK_Btn,Allow,允许
-Permission,Storage,Second_Desc,You can\'t use Spotlite when access to your memory space is denied,Spotlite 需要你允许获取存储空间权限后才可使用
+Permission,Storage,Second_Desc,Spotlite is unavailable when access to your memory space is denied,Spotlite 需要你允许获取存储空间权限后才可使用
 PhotoPicker,Option,Preview_Image,Preview,预览
 PhotoPicker,Option,Select_Album_Text,Choose Album,选择相册
 PhotoPicker,Title,Complete_Button_Text,Done,完成
@@ -549,7 +549,7 @@ Search,Label,Clear,Clear History,清空历史记录成功
 Search,Label,Error,No Search Results,未搜到相关结果
 Search,Label,User,Search Username Or User ID,搜索用户名或用户ID
 search,report,button,Report >,反馈 >
-search,report,tip,Isn\'t here any karaoke you want?,没有你想要的歌曲？
+search,report,tip,There's no karaoke you want?,没有你想要的歌曲？
 Search,Result,Empty_Tip,Please enter the content you want to search for,请输入需要搜索的内容
 Setting,Button,,Setting,设置
 Settings,Button,,Settings,设置
@@ -640,7 +640,7 @@ User,Profile,SuperFanUpgrade,Upgrade,升级
 User,Profile,Title,Edit Profile,个人资料
 User,Profile,Twitter_Label,Twitter,Twitter
 User,Set,Clear_Cache,Are you sure you want to clear cache?,清理缓存将会清空伴奏文件，确定清理缓存？
-User,Set,Doing,Cleaning in the background…,正在后台清理中…
+User,Set,Doing,Clearing in the background…,正在后台清理中…
 User,Set,Done,Cache is empty,缓存已清空
 User,Set,HardDecode,Hardware acceleration,硬件加速
 User,Set,Init_Cache,Calculating cache size,正在计算缓存大小
@@ -664,10 +664,10 @@ WithDraw,Records,Empty_Desc,You haven\'t made any withdrawal requests. Please wi
 Yes,Button,,Yes,是
 Cmp,Detail,Vote_btn,Vote,投票
 Cmp,Detail,Vote_num_android,%1$d votes,%1$d 票
-Cmp,Detail,Vote_Alert_Title_android,"Spend %1$d coins, Confirm it?","本次消费需要花费%1$d金币，确认支付吗？"
-Cmp,Detail,Vote_Alert_Line1,"Confirm, and never show this dialog again.","确认，以后不再提醒"
-Cmp,Detail,Vote_Alert_Line2,"Confirm, show this dialog each purchase.","确认，以后每次都提醒我"
-Cmp,Detail,Vote_Alert_Line3,"Cancel","取消"
+Cmp,Detail,Vote_Alert_Title_android,"This will cost %1$d coins, confirm it?",本次消费需要花费%1$d金币，确认支付吗？
+Cmp,Detail,Vote_Alert_Line1,"Confirm, remind me every time.",确认，以后不再提醒
+Cmp,Detail,Vote_Alert_Line2,"Confirm, don’t remind me again,",确认，以后每次都提醒我
+Cmp,Detail,Vote_Alert_Line3,Cancel,取消
 Cmp,Detail,Vote_num_ios,%d votes,%d 票
-Cmp,Detail,Vote_Alert_Title_ios,"Spend %d coins, Confirm it?","本次消费需要花费%d金币，确认支付吗？"
-Work,Featured,Label,"Featured","推荐"
+Cmp,Detail,Vote_Alert_Title_ios,"This will cost %d coins, confirm it?",本次消费需要花费%d金币，确认支付吗？
+Work,Featured,Label,Featured,推荐
