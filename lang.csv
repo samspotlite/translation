@@ -666,7 +666,7 @@ Cmp,Detail,Vote_btn,Vote,投票
 Cmp,Detail,Vote_num_android,%1$d votes,%1$d 票
 Cmp,Detail,Vote_Alert_Title_android,"This will cost %1$d coins, confirm it?",本次消费需要花费%1$d金币，确认支付吗？
 Cmp,Detail,Vote_Alert_Line1,"Confirm, remind me every time.",确认，以后不再提醒
-Cmp,Detail,Vote_Alert_Line2,"Confirm, don’t remind me again,",确认，以后每次都提醒我
+Cmp,Detail,Vote_Alert_Line2,"Confirm, don’t remind me again.",确认，以后每次都提醒我
 Cmp,Detail,Vote_Alert_Line3,Cancel,取消
 Cmp,Detail,Vote_num_ios,%d votes,%d 票
 Cmp,Detail,Vote_Alert_Title_ios,"This will cost %d coins, confirm it?",本次消费需要花费%d金币，确认支付吗？
