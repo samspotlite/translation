@@ -202,8 +202,8 @@ Live,Error,OS,System version is too old to open Livesteam.,系统版本过低，
 Live,Error,RTMP_Connect,"Connection failed, reconnecting…",连接失败，正在重试
 Live,Error,Viewer_Retry,Failed to connect to the livestream.,重试播放失败
 Live,Error,Viewer_URL,"Something wrong with your livestream, reconnecting… ",链接出问题了，正在尝试重新链接
-Live,Error,Viewer_Video,There's been troubles with the service,主播可能遇到了小麻烦，尝试重新进入房间
-Live,Error,WB_Retry,There's been troubles with the service. Chatting is unavailable at the moment. Video playing is not affected. ,重试失败，无法聊天和看观众，但不影响观看视频
+Live,Error,Viewer_Video,There\'s been troubles with the service,主播可能遇到了小麻烦，尝试重新进入房间
+Live,Error,WB_Retry,There\'s been troubles with the service. Chatting is unavailable at the moment. Video playing is not affected. ,重试失败，无法聊天和看观众，但不影响观看视频
 Live,Exit,Tip,Are you sure you want to exit?,确定要退出直播吗？
 Live,HeartIsNotReady,Tip,Wait a few seconds to send free gift again,耐心等待几秒，免费礼物就会生成~
 Live,Message,Block_Success_Tip,Blocked successfully,拉黑成功
@@ -316,7 +316,7 @@ Me,Charge,Diamond2Cash_Tip,Are you sure to cash %1$@ diamonds out into $%2$@?,�
 Me,Charge,Diamond2Coin_Tip,Are you sure to convert %1$@ diamonds to %2$@ coins?,请确定要将%1$@钻石兑换成%2$@金币？
 Me,Charge,IAP_IsRequesting,Connecting…,正在请求…
 Me,Charge,Label,Convert to Coins,兑换金币
-Me,Charge,LessDiamond_Tip,You don't have enough diamonds,你的钻石不足
+Me,Charge,LessDiamond_Tip,You don\'t have enough diamonds,你的钻石不足
 Me,Charge,Success_Tip,Converted,兑换成功
 Me,Charge,Tip_BuyFail,Purchase failed,充值失败
 Me,Charge,Tip_BuySuccess,Purchase successful!,充值成功！
@@ -447,7 +447,7 @@ Record,Prepare,Duet,Duet,合唱
 Record,Prepare,Init_Error_Toast,Parameter error,参数错误
 Record,Prepare,Memory_Forbid_Video,Notice: insufficient storage space and errors may occur during recording,请注意：磁盘空间不足，录制过程中可能会发生异常。
 Record,Prepare,Not_Support_Score,The accompaniment does not support scoring,该伴奏暂不支持打分
-Record,Prepare,Oppo_R9_Permission_Tip_Line1,"Please check \""No Longer Remind\"" and click on The Authorization",请先勾选“不再提醒”，然后再点击授权，
+Record,Prepare,Oppo_R9_Permission_Tip_Line1,"Please check \""Do not remind me again\"" and click on The Authorization",请先勾选“不再提醒”，然后再点击授权，
 Record,Prepare,Oppo_R9_Permission_Tip_Line2,Otherwise it might cause the voice and accompaniment to be unaligned!,否则会导致人声与伴奏无法对齐的问题！
 Record,Prepare,Oppo_R9_Permission_Tip_Line3,Please re-record after authorization,授权后请重新录音
 Record,Prepare,Permission_Dialog_Camera_Data,"Unable to get camera data, open camera permissions for app in mobile app permissions management",没有获取摄像头数据，请在手机应用权限管理中打开应用的摄像头权限
@@ -549,7 +549,7 @@ Search,Label,Clear,Clear History,清空历史记录成功
 Search,Label,Error,No Search Results,未搜到相关结果
 Search,Label,User,Search Username Or User ID,搜索用户名或用户ID
 search,report,button,Report >,反馈 >
-search,report,tip,There's no karaoke you want?,没有你想要的歌曲？
+search,report,tip,There\'s no karaoke you want?,没有你想要的歌曲？
 Search,Result,Empty_Tip,Please enter the content you want to search for,请输入需要搜索的内容
 Setting,Button,,Setting,设置
 Settings,Button,,Settings,设置
