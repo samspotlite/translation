@@ -672,3 +672,11 @@ Cmp,Detail,Vote_num_ios,%d votes,%d 票
 Cmp,Detail,Vote_Alert_Title_ios,"This will cost %d coins, confirm it?",本次消费需要花费%d金币，确认支付吗？
 Work,Featured,Label,Featured,推荐
 Register,InviteCode,Hint,"invite code (option)","邀请码 (可选)"
+Friends,FindFriends,PageTitle,"Find Friends","查找好友"
+Friends,Contacts,AuthLabel,"Phone Contact","通讯录好友"
+Friends,Facebook,AuthLabel,"Connect to Facebook","连接Facebook好友"
+Friends,Twitter,AuthLabel,"Connect to Twitter","连接Twitter好友"
+Friends,FindFriends,SelfFriends,"Friends you may know","你可能认得的朋友"
+Friends,FindFriends,PlatformFriends,"Stars on Spotlite","Spotlite的明星用户"
+Friends,ViewAll,Label,"View All","查看全部好友"
+Friends,Listen,Label,Listen,收听
