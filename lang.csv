@@ -671,3 +671,4 @@ Cmp,Detail,Vote_Alert_Line3,Cancel,取消
 Cmp,Detail,Vote_num_ios,%d votes,%d 票
 Cmp,Detail,Vote_Alert_Title_ios,"This will cost %d coins, confirm it?",本次消费需要花费%d金币，确认支付吗？
 Work,Featured,Label,Featured,推荐
+Register,InviteCode,Hint,"invite code (option)","邀请码 (可选)"
