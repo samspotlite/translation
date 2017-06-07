@@ -680,3 +680,4 @@ Friends,FindFriends,SelfFriends,"Friends you may know","你可能认得的朋友
 Friends,FindFriends,PlatformFriends,"Stars on Spotlite","Spotlite的明星用户"
 Friends,ViewAll,Label,"View All","查看全部好友"
 Friends,Listen,Label,Listen,收听
+Feed,RecommendUser,More,All the recommended Friends,查看所有推荐用户
