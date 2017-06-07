@@ -681,6 +681,6 @@ Friends,FindFriends,PlatformFriends,"Stars on Spotlite","Spotlite的明星用户
 Friends,ViewAll,Label,"View All","查看全部好友"
 Friends,Listen,Label,Listen,收听
 Feed,RecommendUser,More,All the recommended Friends,查看所有推荐用户
-Permission,Contacts,RequestMsg,"\""Spotlite\"" Would Like to Access Your Contacts. If not allowed, Spotlite cannot help you find mobile contacts who also use Spotlite. Your contacts data will be safely encrypted before being matched.","""Spotlite"" 请求访问通讯录. 否则将无法得知你的哪些好友也在使用Spotlite，您的数据将会被加密，仅作为特征码使用"
+Permission,Contacts,RequestMsg,"\""Spotlite\"" Would Like to Access Your Contacts. If not allowed, Spotlite cannot help you find mobile contacts who also use Spotlite. Your contacts data will be safely encrypted before being matched.","\""Spotlite\"" 请求访问通讯录. 否则将无法得知你的哪些好友也在使用Spotlite，您的数据将会被加密，仅作为特征码使用"
 Contacts,Upload,SuccessMsg,Contacts Upload Success,通讯录上传成功
 Friends,Search,Hint,input friend name,输入好友昵称
