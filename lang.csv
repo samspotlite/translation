@@ -646,7 +646,7 @@ User,Set,HardDecode,Hardware acceleration,硬件加速
 User,Set,Init_Cache,Calculating cache size,正在计算缓存大小
 User,Songs,Delete_Msg,Are you sure you want to delete this song from the contest?,歌曲正在参加比赛，确定删除？
 User,Songs,Desc,Songs,首歌
-User,Songs,Label,SONGS,歌曲
+User,Songs,Label,My Songs,我的歌曲
 User,Songs,Title,Songs,歌曲
 User,Unblock,Success_Msg,Unblock,移除黑名单成功
 User,Unfollow,Button,Unfollow,取消关注
