@@ -687,3 +687,4 @@ Friends,Search,Hint,input friend name,输入好友昵称
 Permission,Contacts,DenyTip,Please go to Settings - Pravicy - Contacts to check if Spotlite is allowed.,请到设置-隐私-通讯录里开启Spotlite的通讯录权限，才可以匹配通讯录好友。
 Share,Coins,InviteBtn,"Send invitations to get free coins","邀请好友得金币"
 Share,Coins,InviteRule,Rule,规则
+User,Profile,Phone_Label,"Phone Number","手机"
