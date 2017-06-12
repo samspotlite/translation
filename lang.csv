@@ -692,4 +692,6 @@ Cmp,CmpList,NoContest,No Contest,没有比赛
 Cmp,CmpList,JoinedLabel,Already joined,已参加
 Cmp,CmpList,InvalidLabel,Not qualified,不符条件
 Record,Upload,No_Competition_Desc,You joined no contest,你没有参加比赛
+User,Profile,Phone_Label,"Phone Number","手机"
+
 
